@@ -1,7 +1,7 @@
 # CustomFonts
 Custom fonts
 
-you can find more information in this **[blog](http://thedeveloperworldisyours.com/android/custom-fonts-in-android/#sthash.TplSUNFo.QiQjI5i0.dpbs)**
+You can find more information in this **[blog](http://thedeveloperworldisyours.com/android/custom-fonts-in-android/#sthash.TplSUNFo.QiQjI5i0.dpbs)**
 
 If you plan to add the same font to several views (Button, TextView...).  I suggest that you go all the way and implement subclass button:
 
