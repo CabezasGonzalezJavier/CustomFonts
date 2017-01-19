@@ -30,7 +30,8 @@ public class ButtonPlus extends Button {
             setTypeface(customFont);
         }
     }
-         ```
+```
+
 And here's the FontCache to reduce memory usage on older devices:
 
 ```java
